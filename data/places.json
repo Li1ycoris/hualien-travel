@@ -532,5 +532,93 @@
       23.9897851,
       121.602849
     ]
+  },
+  {
+    "id": "fantasy-island",
+    "cat": "遊",
+    "name": "追風奇幻島花蓮旗艦店",
+    "sub": "新城・魔法甜點屋室內遊戲場",
+    "price": "依票種與遊玩時數",
+    "priceNote": "最新門票與陪同成人費用請洽門市",
+    "hours": "11:00–21:00",
+    "hoursNote": "每日營業；臨時異動依門市公告",
+    "address": "花蓮縣新城鄉嘉里路15號B1（花蓮康達盛通）",
+    "feature": "室內親子遊戲場，設有球池、滑梯、迷宮、蹦床、玩沙、扮家家酒與幼兒遊戲區。",
+    "family": "各設施年齡、身高與陪同規則請向門市確認，不預設全部適用幼兒。",
+    "note": "電話 03-8260090。不同票券的時數、成人名額及購買條件不同；襪子與入場規則請依所購方案及門市說明。",
+    "source": "https://qihuandao1.webnode.page/花蓮旗艦店-魔法甜點屋/",
+    "source2": "https://www.abic.com.tw/place/view/id/16014",
+    "coords": [
+      24.0160816,
+      121.6106037
+    ],
+    "sessions": "",
+    "entry": ""
+  },
+  {
+    "id": "katsuo-museum",
+    "cat": "遊",
+    "name": "七星柴魚博物館",
+    "sub": "新城・室內漁業展示與互動",
+    "price": "門票資訊待確認",
+    "priceNote": "DIY另計：單項 $200／人；雙體驗 $400",
+    "hours": "09:00–18:00",
+    "hoursNote": "臨時營業調整請查官方公告",
+    "address": "花蓮縣新城鄉大漢村七星街148號",
+    "feature": "二樓魚拓互動、三樓魚種辨識與多媒體互動，四樓有磁力釣魚及海水魚觀賞。",
+    "family": "可看魚與體驗互動展示；DIY參加年齡、親子共作及預約方式需先詢問。",
+    "note": "電話 03-8236100。DIY為「跳跳章魚燒」與「刨刨柴魚花」，各200元／人；加熱與刨具操作依館方指導，不能預設幼兒可獨立操作。",
+    "source": "https://katsuo.com.tw/floor.php",
+    "source2": "https://katsuo.com.tw/experience.php",
+    "coords": [
+      24.0271713,
+      121.6291292
+    ],
+    "sessions": "",
+    "entry": ""
+  },
+  {
+    "id": "taiwan-flavor",
+    "cat": "遊",
+    "name": "地耕味・玩味蕃樂園",
+    "sub": "新城・室內懷舊場景與伴手禮",
+    "price": "入場費待確認",
+    "priceNote": "商品與餐飲依現場標示",
+    "hours": "08:00–17:00",
+    "hoursNote": "旅遊資訊列每日開放；異動請洽店家",
+    "address": "花蓮縣新城鄉康樂村加灣一帶（導航請搜尋店名）",
+    "feature": "室內冷氣空間重現老街店舖與火車車廂，結合懷舊展示、拍照與伴手禮採買。",
+    "family": "以觀看場景與逛店為主，並非遊具型遊樂園；二樓展示區請勿飲食。",
+    "note": "電話 03-8260707。官方旅遊資料的門牌有加灣17-1號與17-2號差異，出發前請向店家確認入口；地圖為園區概略位置。",
+    "source": "https://hualien.travel/zh-tw/attraction/67/",
+    "source2": "https://tour-hualien.hl.gov.tw/TourContent.aspx?n=44&s=3151",
+    "coords": [
+      24.0716638,
+      121.6086099
+    ],
+    "sessions": "",
+    "entry": ""
+  },
+  {
+    "id": "taiwan-yes-museum",
+    "cat": "遊",
+    "name": "台灣海礦館",
+    "sub": "花蓮市・海洋深層水展示",
+    "price": "個人免費參觀",
+    "priceNote": "個人自由參觀免預約；導覽需事先預約",
+    "hours": "09:00–17:00",
+    "hoursNote": "每日開放；可能依廠內作業調整",
+    "address": "花蓮市華東15號（台肥海洋深層水園區）",
+    "feature": "館內介紹海洋深層水與相關產品；園區另有日式建築、防空洞及神社等空間。",
+    "family": "雨天以館內展示為主，園區建築與戶外空間不能全部視為室內雨備。",
+    "note": "參觀前請致電 03-8236168 確認當日開放空間與時間。自由參觀與預約導覽內容不同；地圖標記為園區概略位置，入口依官方指引。",
+    "source": "https://www.taiwanyes-dow.com.tw/pages/visit",
+    "source2": "https://culture-tourism.hualien.gov.tw/attraction_dt.php?id=25",
+    "coords": [
+      24.0057471,
+      121.6392582
+    ],
+    "sessions": "",
+    "entry": ""
   }
 ]
