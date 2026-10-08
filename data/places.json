@@ -398,5 +398,139 @@
       23.8999,
       121.6026
     ]
+  },
+  {
+    "id": "lele-exhibition",
+    "cat": "遊",
+    "name": "樂樂的超時空跳跳門",
+    "sub": "花蓮文創園區第19棟・沉浸式互動特展",
+    "price": "免費入場",
+    "priceNote": "活動期間由親子天下贊助門票",
+    "hours": "10:00–17:00",
+    "hoursNote": "週二至週日；週一休館",
+    "sessions": "",
+    "entry": "",
+    "address": "花蓮市中華路144號19棟",
+    "feature": "結合樂樂小宇宙與夢境現實的互動展，包含球池體驗。",
+    "family": "需穿著襪子入場；現場體驗規則依館方指引。",
+    "note": "展期：2026/08/01–2027/02/28。場館為花蓮流行音樂AI實驗基地；最後入場時間未公告，出發前查園區最新消息。",
+    "source": "https://hualien1913.nat.gov.tw/2026/07/8-1-2-28-%E6%9C%80%E6%96%B0%E7%89%B9%E5%B1%95%E3%80%90%F0%9F%90%B5%E6%A8%82%E6%A8%82%E7%9A%84%E8%B6%85%E6%99%82%E7%A9%BA%E8%B7%B3%E8%B7%B3%E9%96%80%F0%9F%9A%AA%E2%9C%A8%E3%80%91/",
+    "source2": "",
+    "coords": [
+      23.9749,
+      121.6047
+    ],
+    "type": "activity",
+    "parentId": "creative"
+  },
+  {
+    "id": "you-yi-tsun",
+    "cat": "遊",
+    "name": "又一村文創園區",
+    "sub": "花蓮市・老宿舍與文創小店",
+    "price": "依店家消費",
+    "priceNote": "餐飲、商品與體驗費用各店另計",
+    "hours": "依各店公告",
+    "hoursNote": "各店詳細營業時間請查粉專",
+    "sessions": "",
+    "entry": "",
+    "address": "花蓮市仁愛街104巷一帶（縣府資料列2號）",
+    "feature": "舊菸酒公賣局宿舍活化的聚落，集合文創小店與餐飲空間。",
+    "family": "老屋各店動線不同，出入口及無障礙需求請先確認。",
+    "note": "園區各店營業日與時段不同；地圖標記為園區概略位置，請依欲造訪店家確認入口。",
+    "source": "https://tour-hualien.hl.gov.tw/TourContent.aspx?n=242&s=603",
+    "source2": "https://maps.app.goo.gl/h35oDTkgsLLdC2Vm9",
+    "coords": [
+      23.9781884,
+      121.6023308
+    ]
+  },
+  {
+    "id": "giraffe-park",
+    "cat": "遊",
+    "name": "長頸鹿親子公園",
+    "sub": "花蓮市・戶外遊戲空間",
+    "price": "收費資訊待確認",
+    "priceNote": "官方介紹未列收費資訊",
+    "hours": "開放時段待確認",
+    "hoursNote": "請依現場及市公所公告",
+    "sessions": "",
+    "entry": "",
+    "address": "花蓮市明禮路與正義街口",
+    "feature": "設有滑梯、攀爬網與鞦韆，另有單槓及草地。",
+    "family": "使用遊具前查看現場年齡、身高與安全規則。",
+    "note": "維管機關為花蓮市公所；設施維護或臨時封閉情形請依現場公告。",
+    "source": "https://culture-tourism.hualien.gov.tw/attraction_dt.php?id=29",
+    "source2": "https://maps.app.goo.gl/6ZxPt5uiBBGMUFR96",
+    "coords": [
+      23.9840175,
+      121.6066695
+    ]
+  },
+  {
+    "id": "owl-park",
+    "cat": "遊",
+    "name": "貓頭鷹親子公園",
+    "sub": "花蓮市・造型滑梯與鞦韆",
+    "price": "收費資訊待確認",
+    "priceNote": "官方介紹未列收費資訊",
+    "hours": "開放至 21:00",
+    "hoursNote": "開始開放時間未列，請依現場公告",
+    "sessions": "",
+    "entry": "",
+    "address": "花蓮市進豐街115號",
+    "feature": "以貓頭鷹造型滑梯為特色，另有複合鞦韆及草地小丘。",
+    "family": "園內請勿飲食，並留意現場遊具使用規則。",
+    "note": "市公所介紹名稱為「貓頭鷹公園」；地圖名稱為「貓頭鷹親子公園」。設施維護與臨時封閉以現場公告為準。",
+    "source": "https://culture-tourism.hualien.gov.tw/attraction_dt.php?id=35",
+    "source2": "https://maps.app.goo.gl/p2k9jexkociyL3DK6",
+    "coords": [
+      23.9871495,
+      121.6060553
+    ]
+  },
+  {
+    "id": "pacific-playground",
+    "cat": "遊",
+    "name": "太平洋公園兒童遊戲場",
+    "sub": "花蓮市・南濱海岸遊戲場",
+    "price": "收費資訊待確認",
+    "priceNote": "官方介紹未列收費資訊",
+    "hours": "開放時段待確認",
+    "hoursNote": "設施使用依現場公告",
+    "sessions": "",
+    "entry": "",
+    "address": "花蓮市海濱街太平洋公園南濱段",
+    "feature": "海盜船造型遊具結合攀爬與滑梯，另設彈跳網及鳥巢鞦韆。",
+    "family": "使用遊具前查看現場規則，海邊停留請留意天候與風勢。",
+    "note": "主管機關為花蓮縣政府；海岸公園範圍較大，標記對應指定的兒童遊戲場。維護情形依現場公告。",
+    "source": "https://culture-tourism.hualien.gov.tw/attraction_dt.php?id=32",
+    "source2": "https://maps.app.goo.gl/UwCKCdnbfdvqyrbe9",
+    "coords": [
+      23.966847,
+      121.610475
+    ]
+  },
+  {
+    "id": "rui-ying",
+    "cat": "食",
+    "name": "睿縈手工粉漿蛋餅專門店",
+    "sub": "花蓮市・手工粉漿蛋餅",
+    "price": "依現場菜單",
+    "priceNote": "內用、外帶價格請向店家確認",
+    "hours": "營業時間待確認",
+    "hoursNote": "網路時段資訊有差異，請先詢店家",
+    "sessions": "",
+    "entry": "",
+    "address": "花蓮市國聯二路82號",
+    "feature": "供應手工粉漿蛋餅，位於花蓮市國聯二路。",
+    "family": "餐點配料、辣度與過敏原請向店家詢問。",
+    "note": "電話 0955-377-822；營業時間、休息日與最新菜單請向店家確認。",
+    "source": "https://www.facebook.com/profile.php?id=100090175453332",
+    "source2": "https://maps.app.goo.gl/eJXHaxCA5EP8xeVd6",
+    "coords": [
+      23.9897851,
+      121.602849
+    ]
   }
 ]
