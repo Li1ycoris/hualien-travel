@@ -41,7 +41,9 @@
     "coords": [
       24.0049,
       121.638
-    ]
+    ],
+    "type": "activity",
+    "parentId": "harbor"
   },
   {
     "id": "mermaid",
@@ -63,7 +65,9 @@
     "coords": [
       23.9011,
       121.6021
-    ]
+    ],
+    "type": "activity",
+    "parentId": "ocean"
   },
   {
     "id": "qixingtan",
@@ -354,8 +358,8 @@
   {
     "id": "harbor",
     "cat": "行",
-    "name": "向日廣場賞鯨報到",
-    "sub": "花蓮港・接送與集合",
+    "name": "向日廣場",
+    "sub": "花蓮港・賞鯨報到與集合",
     "price": "依賞鯨方案",
     "priceNote": "多羅滿含接送方案另見活動",
     "hours": "依預約航班",
