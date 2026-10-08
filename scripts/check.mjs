@@ -15,4 +15,11 @@ for (const p of places) {
   for (const key of ['source', 'source2']) if (p[key]) { const url = new URL(p[key]); assert(url.protocol === 'https:', 'Source must be HTTPS'); }
   assert(!p.status, 'Personal booking status must not be published');
 }
+for (const p of places) {
+  if (p.type !== undefined) assert(p.type === 'activity', `Invalid record type: ${p.id}`);
+  if (p.type === 'activity') {
+    const parent = places.find(x => x.id === p.parentId);
+    assert(p.cat === '遊' && parent && parent.type !== 'activity' && parent.id !== p.id, `Invalid activity parent: ${p.id}`);
+  } else assert(p.parentId === undefined, `Only activities may have a parent: ${p.id}`);
+}
 console.log(`Validated ${places.length} public location records`);
