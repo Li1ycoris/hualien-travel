@@ -840,5 +840,93 @@
     "note": "美崙店電話 03-8315018。此筆為民權路美崙店；菜單、訂位、停車及用餐規則請向該分店確認。",
     "sessions": "",
     "entry": ""
+  },
+  {
+    "cat": "食",
+    "price": "依現場菜單",
+    "priceNote": "最新價格、低消與服務費請向店家確認",
+    "sessions": "",
+    "entry": "",
+    "id": "found-croissanter",
+    "name": "找到了可頌小売所",
+    "sub": "花蓮市・可頌與丹麥甜點",
+    "address": "花蓮市菁華街35巷1弄18號",
+    "feature": "供應可頌、水果丹麥等烘焙甜點，可作市區散步時的外帶點心。",
+    "hours": "14:00–17:30",
+    "hoursNote": "食尚玩家列週一休；其他公休日待確認",
+    "family": "配料與過敏原請詢店家；內用座位、兒童椅及推車空間未確認。",
+    "note": "電話 0928-229-358。不同年份資料的公休日、電話與預訂方式有差異；當日品項、預訂及取貨規則請先詢問。",
+    "source": "https://supertaste.tvbs.com.tw/infocard/13961",
+    "source2": "https://maps.app.goo.gl/GhDtpVfELwrsJWg17",
+    "coords": [
+      23.9810684,
+      121.6154356
+    ]
+  },
+  {
+    "cat": "食",
+    "price": "依現場菜單",
+    "priceNote": "最新價格、低消與服務費請向店家確認",
+    "sessions": "",
+    "entry": "",
+    "id": "jin-ming-noodles",
+    "name": "金名麵館",
+    "sub": "花蓮市・牛肉麵與雞湯麵",
+    "address": "花蓮市南京街272號1樓",
+    "feature": "供應紅燒與清燉牛肉麵、十全雞湯麵、滷肉飯及小菜，可作市區麵飯正餐。",
+    "hours": "營業時間待確認",
+    "hoursNote": "午、晚餐時段及公休日來源有差異，請先詢店家",
+    "family": "餐點辣度、兒童椅、共食規則與推車空間請先詢問。",
+    "note": "電話 03-8310525。外送平台價格不代表內用售價；2025實訪與外送平台的營業日、午餐時段不同，不直接沿用舊公休日。",
+    "source": "https://tutufoodaholic.tw/jin-ming-noodle-house/",
+    "source2": "https://www.foodpanda.com.tw/restaurant/iwqu/jin-ming-mian-guan",
+    "coords": [
+      23.9747469,
+      121.6068493
+    ]
+  },
+  {
+    "cat": "食",
+    "price": "依現場菜單",
+    "priceNote": "最新價格、低消與服務費請向店家確認",
+    "sessions": "",
+    "entry": "",
+    "id": "hopeful-hualien",
+    "name": "巷往 Hualien",
+    "sub": "花蓮市・香料牛肉與牛雜麵",
+    "address": "花蓮市和平路247號",
+    "feature": "以牛肉、牛雜麵為主，提供馬告、刺蔥、檸檬及香茅等特色湯頭，另有小菜。",
+    "hours": "11:00–14:00／17:00–21:00",
+    "hoursNote": "實訪資料列週日休；週一午餐是否營業待確認",
+    "family": "部分餐點採現沖牛肉；需要全熟或不辣請點餐時確認。兒童椅、共食規則與推車空間未確認。",
+    "note": "電話 0938-827509。不同年份資料的電話與週一午餐營業情形有差異；最新菜單、口味與營業日請先確認。",
+    "source": "https://dalang.tw/hopeful/",
+    "source2": "https://fatnya.com/lane-hualien/",
+    "coords": [
+      23.9713735,
+      121.6052831
+    ]
+  },
+  {
+    "cat": "食",
+    "price": "依現場菜單",
+    "priceNote": "最新價格、低消與服務費請向店家確認",
+    "sessions": "",
+    "entry": "",
+    "id": "foodtopia",
+    "name": "花蓮市立丼物園",
+    "sub": "花蓮市・日式丼飯與咖哩",
+    "address": "花蓮市延平街148巷22號",
+    "feature": "日式餐廳供應海鮮丼飯、壽司，另有唐揚雞咖哩、豬排與烏龍麵等熟食選擇。",
+    "hours": "11:30–14:30／17:30–20:30",
+    "hoursNote": "訂位頁列每日營業；舊資料列週四休，出發前確認",
+    "family": "不吃生食可詢問熟食餐點；兒童椅、幼兒低消、共食與推車空間未確認。",
+    "note": "電話 03-8313535，可由訂位頁預約。部分實訪及舊旅遊資料的午、晚餐結束時間不同；服務費與最新售價依現場菜單。",
+    "source": "https://www.opentable.com.tw/restaurant/profile/265091",
+    "source2": "https://tenjo.tw/foodtopia/",
+    "coords": [
+      23.9862155,
+      121.5993154
+    ]
   }
 ]
