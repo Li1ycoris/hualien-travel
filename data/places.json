@@ -928,5 +928,137 @@
       23.9862155,
       121.5993154
     ]
+  },
+  {
+    "id": "near-here-hotpot",
+    "cat": "食",
+    "name": "鍋神日式涮涮鍋",
+    "sub": "23Here周邊・火鍋",
+    "price": "約 NT$200–400／人",
+    "priceNote": "參考價格，依現場菜單",
+    "hours": "11:00–翌日00:30",
+    "hoursNote": "一般營業時段，雙十連假及臨時異動需再次確認",
+    "sessions": "",
+    "entry": "",
+    "address": "花蓮市國聯五路55號",
+    "feature": "火鍋與飯類吃到飽配料（供應以現場為準）；適合就近坐下用餐。",
+    "family": "鍋物熱湯需注意孩童安全；兒童椅與推車位置請向店家確認。",
+    "note": "地圖座標暫定位在23Here周邊區域（非店門口精確定位），導航請使用地址。電話 03-8353035。假日及特殊營業日可能調整。",
+    "source": "https://ifoodie.tw/restaurant/5ec0d4e6d6895d28300dc249-%E9%8D%8B%E7%A5%9E%E6%97%A5%E5%BC%8F%E6%B6%AE%E6%B6%AE%E9%8D%8B",
+    "source2": "https://sekainomys.com/hualienhotpot/",
+    "coords": [
+      23.9922,
+      121.605
+    ]
+  },
+  {
+    "id": "near-here-chientu",
+    "cat": "食",
+    "name": "錢都日式涮涮鍋・花蓮國聯店",
+    "sub": "23Here周邊・個人火鍋",
+    "price": "約 NT$200–400／人",
+    "priceNote": "參考價格，依現場菜單",
+    "hours": "11:00–翌日02:00",
+    "hoursNote": "一般營業時段，雙十連假及臨時異動需再次確認",
+    "sessions": "",
+    "entry": "",
+    "address": "花蓮市國聯五路69號1樓A戶",
+    "feature": "個人涮涮鍋，可分別選擇鍋物，晚餐與較晚時段皆可作備選。",
+    "family": "火鍋熱湯及桌面空間需留意；幼兒座位及共鍋規則請先詢問。",
+    "note": "地圖座標暫定位在23Here周邊區域（非店門口精確定位），導航請使用地址。官方標示最後收客翌日00:30；特殊節日時間請再確認。電話 03-8311527。",
+    "source": "https://www.chientu.com.tw/page/store/show.aspx?lang=TW&num=68",
+    "source2": "https://www.chientu.com.tw/page/store/",
+    "coords": [
+      23.9922,
+      121.605
+    ]
+  },
+  {
+    "id": "near-here-soup-noodle",
+    "cat": "食",
+    "name": "職饗雞湯小卷米粉",
+    "sub": "23Here周邊・雞湯海鮮米粉",
+    "price": "依現場菜單",
+    "priceNote": "參考價格，依現場菜單",
+    "hours": "11:00–14:00／17:00–20:00",
+    "hoursNote": "一般營業時段，雙十連假及臨時異動需再次確認",
+    "sessions": "",
+    "entry": "",
+    "address": "花蓮市國聯五路121號",
+    "feature": "主打雞湯小卷米粉與簡單小菜，適合想吃熱湯麵食的選擇。",
+    "family": "有小卷等海鮮食材，留意過敏；推車停放與幼兒餐具需詢問。",
+    "note": "地圖座標暫定位在23Here周邊區域（非店門口精確定位），導航請使用地址。多數資料列121號，外送平台有125號記載；現場門牌請核對。週一休息資訊亦需確認。電話 03-8322779。",
+    "source": "https://www.viviyu.com/archives/63673",
+    "source2": "https://www.ubereats.com/tw/store/%E8%81%B7%E9%A5%97%E8%8A%B1%E8%93%AE%E9%9B%9E%E6%B9%AF%E5%B0%8F%E5%8D%B7%E7%B1%B3%E7%B2%89/1Uu0-5aSVqOKCv2EE_Jelw",
+    "coords": [
+      23.9922,
+      121.605
+    ]
+  },
+  {
+    "id": "near-here-buffet",
+    "cat": "食",
+    "name": "涼一夏自助餐",
+    "sub": "23Here周邊・便當自助餐",
+    "price": "約 NT$200 以下／人",
+    "priceNote": "參考價格，依現場菜單",
+    "hours": "09:30–19:45",
+    "hoursNote": "一般營業時段，雙十連假及臨時異動需再次確認",
+    "sessions": "",
+    "entry": "",
+    "address": "花蓮市國聯五路8號",
+    "feature": "飯菜自選，適合快速解決正餐或外帶回住宿處。",
+    "family": "可挑選適合孩子的菜色；用餐空間和推車停放請現場確認。",
+    "note": "地圖座標暫定位在23Here周邊區域（非店門口精確定位），導航請使用地址。公開資料未列週日營業；連假開店及供餐至幾點需先確認。電話 03-8321008。",
+    "source": "https://www.google.com/maps/search/?api=1&query=%E6%B6%BC%E4%B8%80%E5%A4%8F%E8%87%AA%E5%8A%A9%E9%A4%90+%E8%8A%B1%E8%93%AE",
+    "source2": "",
+    "coords": [
+      23.9922,
+      121.605
+    ]
+  },
+  {
+    "id": "near-here-wangs",
+    "cat": "食",
+    "name": "王記茶舖・人文茶堂中山店",
+    "sub": "23Here周邊・茶飲與正餐",
+    "price": "約 NT$200–400／人",
+    "priceNote": "參考價格，依現場菜單",
+    "hours": "10:30–22:30",
+    "hoursNote": "一般營業時段，雙十連假及臨時異動需再次確認",
+    "sessions": "",
+    "entry": "",
+    "address": "花蓮市中山路565號",
+    "feature": "有正餐、茶飲與內用座位，適合想休息或避雨的用餐選擇。",
+    "family": "官方允許嬰幼兒副食品與牛奶；兒童椅、推車動線需確認。",
+    "note": "地圖座標暫定位在23Here周邊區域（非店門口精確定位），導航請使用地址。官方規定連假不開放訂位，可能需現場候位；電話 03-8339388（第三方店家資料），如有差異以店家為準。",
+    "source": "https://wangs.com.tw/%E8%81%AF%E7%B5%A1%E6%88%91%E5%80%91",
+    "source2": "https://ifoodie.tw/post/690767ebeb74c41a1671d19f",
+    "coords": [
+      23.9922,
+      121.605
+    ]
+  },
+  {
+    "id": "near-here-spicy",
+    "cat": "食",
+    "name": "滷大王麻辣燙・花蓮國聯店",
+    "sub": "23Here周邊・滷味麻辣燙",
+    "price": "約 NT$200 以下／人",
+    "priceNote": "參考價格，依現場菜單",
+    "hours": "17:00–23:00",
+    "hoursNote": "一般營業時段，雙十連假及臨時異動需再次確認",
+    "sessions": "",
+    "entry": "",
+    "address": "花蓮市國聯五路38-1號",
+    "feature": "可依喜好選擇滷味食材，屬晚間用餐或宵夜備案。",
+    "family": "與孩童同行請先確認是否有不辣湯底及合適座位。",
+    "note": "地圖座標暫定位在23Here周邊區域（非店門口精確定位），導航請使用地址。以公開店家資料為參考，假日開店與品項先確認。電話 0958-282142。",
+    "source": "https://www.google.com/maps/search/?api=1&query=%E6%BB%B7%E5%A4%A7%E7%8E%8B%E9%BA%BB%E8%BE%A3%E7%87%99+%E8%8A%B1%E8%93%AE%E5%9C%8B%E8%81%AF",
+    "source2": "",
+    "coords": [
+      23.9922,
+      121.605
+    ]
   }
 ]
